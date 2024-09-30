@@ -1,0 +1,16 @@
+Customer: C2
+Transactions:
+C2 PURCHASE 500 credits
+C2 USE 10 credits
+C2 USE 15 credits
+Remaining Credits: 475
+
+Customer: C1
+Transactions:
+C1 PURCHASE 100 credits
+C1 PURCHASE 250 credits
+C1 USE 5 credits
+C1 USE 6 credits
+C1 USE 3 credits
+Remaining Credits: 336
+

@@ -1,0 +1,6 @@
+Service,S1,1
+Service,S2,2
+Service,S3,3
+Package,Basic,100,100.00
+Package,Standard,250,225.00
+Package,Premium,500,450.00
